@@ -1,1 +1,1 @@
-# blog.imjcj.cloudns.ph
+# README.md
